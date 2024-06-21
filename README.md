@@ -1,4 +1,4 @@
-
+Mình là Duy Minh, 17 tuổi và đang học tại THPT Đồng Hới. Mình là một người có niềm đam mê với máy tính, hiện đang học Front-end (trong tương lai mình sẽ cố gắng học Fullstack Web và Mobile). Và tài khoản Github này được mình lập ra nhằm ghi lại những kiến thức và dự án mình thực hiện trong quá trình học tập.
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/minhtapcode) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/facebook.com/duyminhhello/) 
 
