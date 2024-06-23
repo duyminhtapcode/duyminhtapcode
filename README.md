@@ -1,4 +1,4 @@
- <p>🐱‍💻 Mình là <b>Duy Minh</b>, 17 tuổi và đang học tại <b>THPT Đồng Hới</b>. Mình là một người có niềm đam mê với <b>máy tính</b>, hiện đang học <b>Front-end</b> (trong tương lai mình sẽ phát triển theo hướng <b>Fullstack Web</b> và <b>Mobile</b>). Và tài khoản <b>Github</b> này được mình lập ra nhằm ghi lại những <b>kiến thức</b> và <b>dự án</b> mình thực hiện trong quá trình học tập.</p>
+ <p>🐱‍💻 Mình là <b>Duy Minh</b>, 17 tuổi và đang học tại <b>THPT Đồng Hới</b>. Mình là một người có niềm đam mê với <b>máy tính</b>, hiện đang học <b>Front-end</b> (trong tương lai sẽ phát triển theo hướng <b>Fullstack Web</b> hoặc <b>Mobile</b>). Và tài khoản <b>Github</b> này được mình lập ra nhằm ghi lại những <b>kiến thức</b> và <b>dự án</b> mình thực hiện trong quá trình học tập.</p>
  <hr>
 
 ## 🌐Socials
